@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Dec 25 11:59:22 2019
-
 @author: Soham Shah
 """
 
@@ -33,7 +31,7 @@ def bulkfetch():
      ["You can call me ChatX.", "I'm ChatX!", "I'm ChatX, created by Master Soham"], 
      ["I'm available all day everyday; until you shut down ur pc ;)!"], 
      ["I’m humbled and grateful.", "Thank you!", "You’re a blessing to me.", "I’m touched beyond words.", "My heart just keeps thanking you and thanking you.", "All I can say is wow! (Except, of course, I’m grateful.)"],
-     ["I can GOOGLE Search for you, VOLUME Up/Down, AUTOBRIGHTNESS mode On/off, CREATE or DELETE files, WRITE by your voice commands and obviously won't ever let you bore ;) Just type/say the Capital lettered command and then say what you wanna do?"],
+     ["I can do anything for you ;)"],
      ["I love you", "Okay here's what i did yesterday. I ate a clock yesterday, it was very time-consuming.", "Have you played the updated kids’ game? I Spy With My Little Eye . . . Phone.", "Q. What is the biggest lie in the entire universe?\nA. “I have read and agree to the Terms & Conditions.", "Person 1: Do you know how to use Outlook?\nPerson 2: As a matter of fact, I Excel at it.\nPerson 1: Was that a Microsoft Office pun?\nPerson 2: Word",
       "Q: Why did the computer show up at work late?\nA: It had a hard drive."],
       ["Done!"]
